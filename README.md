@@ -2,7 +2,7 @@
 
 ## Images
 
-- run this command for every microservices
+- run this command for every microservice
 ```
 mvn spring-boot:build-image -Dskipstests
 ```
